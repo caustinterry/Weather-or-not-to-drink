@@ -1,4 +1,4 @@
-# Weather to Drink
+# Weather or not to drink
 
 A website that calls on several API's to pull the user's location and provide an array of drink selections based upon the current weather.
 
@@ -6,7 +6,7 @@ A website that calls on several API's to pull the user's location and provide an
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Instructions
+## Instructions
 
 - The browser geolocation pulls in the user location and based upon the current weather will recommend several different drink recipies
 - If the user want's to input a location they can use the search at the top to pull the weather in that location
