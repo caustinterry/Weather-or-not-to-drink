@@ -13,11 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 - New drinks will be recommended based upon that location
 - The user can add any of the drinks into their favorites which are stored in local storage
 
-### Contain a link to a deployed version of the app
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+[Weather or not to drink](https://austinterry.dev/Weather-or-not-to-drink/)
 
 ## Built With
 
