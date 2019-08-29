@@ -4,7 +4,7 @@ A website that calls on several API's to pull the user's location and provide an
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The website will automatically load and pull in the user location and recommend drinks. Please test out the search and favorites functions.
 
 ## Instructions
 
